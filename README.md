@@ -6,7 +6,7 @@ Prerequisite for MERN stack study plan
 Here's a breakdown of your study plan with recommended video resources:
 
 Day 1:
-- **First 2 hours:** Start by understanding the fundamentals of web development. Watch the Web Development in 2021 - A Practical Guide by Traversy Media: [Web Development in 2021 - A Practical Guide](https://www.youtube.com/watch?v=9M4_X5oWgqs) (Duration: 1.5 hours)
+- **First 2 hours:** Start by understanding the fundamentals of web development. Watch the Web Development in 2021 - A Practical Guide by Traversy Media: [Web Development in 2021 - A Practical Guide](https://www.youtube.com/watch?v=u72H_zZzkcw) (Duration: 1.5 hours)
 
 Day 2:
 - **First 2 hours:** Begin your journey into JavaScript. Watch and follow along with the JavaScript Crash Course by Traversy Media: [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c) (Duration: 1.5 hours)
