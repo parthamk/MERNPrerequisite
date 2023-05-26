@@ -6,13 +6,13 @@ Prerequisite for MERN stack study plan
 Here's a breakdown of your study plan with recommended video resources:
 
 Day 1:
-- **First 2 hours:** Start by understanding the fundamentals of web development. Watch the Web Development - A Practical Guide by Traversy Media: [Web Development in 2021 - A Practical Guide](https://www.youtube.com/watch?v=u72H_zZzkcw) (Duration: 1.5 hours)
+- **First 2 hours:** Start by understanding the fundamentals of web development. Watch the Web Development - A Practical Guide by Traversy Media: [Web Development - A Practical Guide](https://www.youtube.com/watch?v=u72H_zZzkcw) (Duration: 3.5 hours)
 
 Day 2:
 - **First 2 hours:** Begin your journey into JavaScript. Watch and follow along with the JavaScript Crash Course by Traversy Media: [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c) (Duration: 1.5 hours)
 
 Day 3:
-- **First 2 hours:** Dive deeper into JavaScript concepts and learn about DOM manipulation. Watch the JavaScript DOM Crash Course by Traversy Media: [JavaScript DOM Crash Course](https://www.youtube.com/watch?v=0ik6X4DJKCc) (Duration: 1 hour)
+- **First 2 hours:** Dive deeper into JavaScript concepts and learn about DOM manipulation. Watch the JavaScript DOM Crash Course by Traversy Media: [JavaScript DOM Crash Course](https://www.youtube.com/playlist?list=PLWrdF35wo-ISLXL9R7khxtpZ17jCsmeiv) (Duration: 4 hour)
 
 Day 4:
 - **First 2 hours:** Move on to learning the basics of React. Watch the React Crash Course by Traversy Media: [React Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8) (Duration: 1.5 hours)
